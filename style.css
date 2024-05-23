@@ -101,7 +101,7 @@ body {
 }
 /* wrapper */
 .wrapper {
-    background-image: url(/Users/galinabondar/Documents/FrontEnd/HackYourFuture/19.05.24/Portfolio/image/fon3.jpg);
+    background-image: url(image/fon3.jpg);
     background-size: cover;
     background-repeat: no-repeat;
     min-height: 650px;
